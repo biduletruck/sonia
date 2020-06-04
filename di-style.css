@@ -1,0 +1,59 @@
+.page1 {background-color: #FFCC99;}
+.page2 {background-color: #800880;}
+.page3 {background-color: #CC0000;}
+.page4 {background-color: #0000CC;}
+.page5 {background-color: #FF6600;}
+.page6 {background-color: #008000;}
+.page7 {background-color: #FFFF00;}
+.page8 {background-color: #40E0D0;}
+.page9 {background-color: #FFCC99;}
+.page10 {background-color: #800880;}
+.page11 {background-color: #CC0000;}
+.page12 {background-color: #0000CC;}
+.page13 {background-color: #FF6600;}
+.page14 {background-color: #008000;}
+.page15 {background-color: #FFFF00;}
+.page16 {background-color: #40E0D0;}
+.page17 {background-color: #FFCC99;}
+.page18 {background-color: #800880;}
+.page19 {background-color: #CC0000;}
+
+
+table{
+    padding: 20px;
+}
+.line-height{
+    line-height: 20px;
+}
+html{
+    font-family: "Lucida Grande, sans-serif";
+}
+#tailleh1{
+    font-size: 20px;
+    font-weight: bold;
+}
+#tailleh11{
+    font-size: 14px;
+    font-weight: bold;
+}
+#tailleh12{
+    font-size: 14px;
+    font-weight: bold;
+}
+#tailleh13{
+    font-size: 14px;
+    font-weight: bold;
+}
+#tailleh14{
+    font-size: 14px;
+    font-weight: bold;
+}
+#tailleh15{
+    font-size: 14px;
+    font-weight: bold;
+}
+#tailleh16{
+    font-size: 14px;
+    font-style: bold;
+}
+
